@@ -9,7 +9,7 @@
 
 
 ## About me
-Aged 43, based in Kiev, Ukraine. Married with two teenage children. Former Theology teacher and currently a teacher of business English. Self-employed (private entrepreneur since 2007). With a broad educational background. Web-development has been a hobby for more than ten years (e.g. here is the link to the website developed and run for my language courses [english4real.com](https://achkasoff.com)). Would like to further grow as a front-end developer.    
+Aged 43, based in Kiev, Ukraine. Married with two teenage children. Former Theology teacher and currently a teacher of business English. Self-employed (private entrepreneur since 2007). With a broad educational background. Web-development has been a hobby for more than ten years (e.g. here is the link to the website developed and run for my language courses [english4real.com](https://english4real.com)). Would like to further grow as a front-end developer.    
 
 **Strong sides**: *diligent, well-organized, able to learn and to teach, cooperative*.
 
