@@ -33,7 +33,7 @@ Aged 43, based in Kiev, Ukraine. Married with two teenage children. Former Theol
 
 
 ## Code example
-```
+```js
 function twiceAsOld(dadYearsOld, sonYearsOld) {
 return Math.abs(dadYearsOld - (2 * sonYearsOld));
 }
